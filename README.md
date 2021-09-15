@@ -1,1 +1,3 @@
-# Machine-Learning-Project-prediction-model-
+# Machine-Learning-Project-prediction-mode
+
+THIS IS MY FIRST FIRST MACHINE LEARNING PROJECT ON PRIDICTION SALE PRICES FORM A GIVEN DATA.
