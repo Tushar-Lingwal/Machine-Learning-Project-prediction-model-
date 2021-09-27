@@ -122,6 +122,6 @@ def BookRecommender(book_name):
         book_list_name.append(df2.loc[newid].title)
     return book_list_name
 
-
+# finally printing the names of the top 10 recommended books to read
 BookNames = BookRecommender('Harry Potter and the Half-Blood Prince (Harry Potter  #6)')
 print(BookNames)
